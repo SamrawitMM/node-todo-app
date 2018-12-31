@@ -3,3 +3,5 @@ package.json
 package-lock.json
 backup.js
 playground/
+ThisIsForServerTestjs.txt
+utils/
